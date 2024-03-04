@@ -1,21 +1,21 @@
 @font-face {
     font-family: "Plain Light";
-    src: url(./Fonts/plain-regular-webfont.ttf);
+    src: url("./Fonts/plain-regular-webfont.ttf");
 }
 
 @font-face {
     font-family: "Plain Light";
-    src: url(./Fonts/plain-light-webfont.ttf);
+    src: url("./Fonts/plain-light-webfont.ttf");
 }
 
 @font-face {
     font-family: "silk serif";
-    src: url(./Fonts/silkserif-regularitalic-webfont.ttf);
+    src: url("./Fonts/silkserif-regularitalic-webfont.ttf");
 }
 
 @font-face {
     font-family: "silk serif";
-    src: url(./Fonts/silkserif-lightitalic-webfont.ttf);
+    src: url("./Fonts/silkserif-lightitalic-webfont.ttf");
 }
 
 * {
@@ -23,7 +23,7 @@
     padding: 0;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
-    font-family: "gilroy";
+    font-family: "Plain Light";
     color: #fff;
 }
 
